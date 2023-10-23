@@ -11,4 +11,4 @@ After installed Python 3.10.2 Windows 64bit (python-3.10.2-amd64.exe) all files 
 Then the following folder has to be removed
 + include/internal/  
 
-Finally create a zip file from the remaining files to python-3.10.12-amd64-cross.zip
+Finally create a zip file from the remaining files to python-3.10.2-amd64-cross.zip
